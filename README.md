@@ -1,4 +1,4 @@
-# Laravel 10 with inertia and Vue JS 3 - Ecommerce
+# Vcommerce an ecommerce platfornm build with Laravel And Vue.js
 ## Feature: 
 - shipping with Raja Ongkir https://rajaongkir.com
 - Paymentgateway with Midtrans https://midtrans.com
